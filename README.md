@@ -1,4 +1,4 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/dltmd202)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bat5273)](https://solved.ac/bat5273)
 
 
 <!--
