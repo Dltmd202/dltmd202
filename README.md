@@ -1,6 +1,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat5273)](https://solved.ac/bat5273)
-![free()](https://user-images.githubusercontent.com/17924127/87273805-0cec0180-c515-11ea-8cfd-7ae258134dcf.png)
 
 <!--
 **Dltmd202/dltmd202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
